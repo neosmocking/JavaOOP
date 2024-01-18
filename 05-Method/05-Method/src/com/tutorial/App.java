@@ -13,8 +13,8 @@ class Mahasiswa {
 
     // method tanpa return dan tanpa parameter
     void show(){
-        System.out.println("Nama : " + this.nama);
-        System.out.println("NIM : " + this.NIM);
+        System.out.println("Nama    : " + this.nama);
+        System.out.println("NIM     : " + this.NIM);
     }
     
     // method tanpa return dan dengan parameter
